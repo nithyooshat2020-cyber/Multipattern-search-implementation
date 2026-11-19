@@ -1,7 +1,7 @@
 EXECUTION INSTRUCTIONS FOR MATLAB AND VERILOG
 ================================================
 
-Purpose
+Purposed
 -------
 This document provides step-by-step instructions for running the MATLAB
 reference model and simulating, synthesizing, and implementing the Verilog
